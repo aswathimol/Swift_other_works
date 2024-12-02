@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7A492E49-8D11-4F8C-AB5B-1CB3210C9719"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52B2CBF2-1902-4837-AD6B-458C87472333"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parsing/ViewController1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52B2CBF2-1902-4837-AD6B-458C87472333 - 5db2c159569edc0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController1.viewDidLoad() -&gt; ()"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "52B2CBF2-1902-4837-AD6B-458C87472333 - 5db2c159569edc0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController1.viewDidLoad() -&gt; ()"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "197">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A830D92C-F46C-4D85-8609-28B3501F6594"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parsing/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parsing/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - 481660c5cae06959"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.users.getter : Swift.Array&lt;Parsing.User&gt;"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - 90327f9411a3fd45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.users.setter : Swift.Array&lt;Parsing.User&gt;"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - 95cf2972588a9c54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.users.modify : Swift.Array&lt;Parsing.User&gt;"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - ab3ca95209a5b6c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.users.modify : Swift.Array&lt;Parsing.User&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - c3d0e0bff73c8ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Parsing.ViewController"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "DB2947CE-E014-43CA-9C26-372A7E6686B5 - e64ea74f246f1069"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parsing.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Parsing.ViewController&gt;"
+                  moduleName = "Parsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/Parsing%20copy/Parsing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

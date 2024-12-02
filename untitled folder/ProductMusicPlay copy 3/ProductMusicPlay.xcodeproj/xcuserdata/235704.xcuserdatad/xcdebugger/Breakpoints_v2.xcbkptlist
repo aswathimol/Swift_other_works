@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "224F2137-6531-42EA-9964-34E347F243FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7DC6E5E-9BDA-4D93-80CF-946D50613267"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "538B6F21-9B7E-41BC-B8C7-E8509514B3E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74A88588-233A-408D-A2D6-3EEC22C014A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74A88588-233A-408D-A2D6-3EEC22C014A1 - fcd5d9c197f8b71b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductListDetailViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductListDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "74A88588-233A-408D-A2D6-3EEC22C014A1 - fcd5d9c197f8b71b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductListDetailViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductListDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "986">
+               </Location>
+               <Location
+                  uuid = "74A88588-233A-408D-A2D6-3EEC22C014A1 - fcd5d9c197f8b71b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductListDetailViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductListDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1850">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03D68815-E460-40F2-82AC-3B2A16B7E18B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C2BBE3F-0D2C-48B0-9246-76E835AFCEC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B724A867-0D70-466E-BBFE-C3826B3111E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductDetailCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "ProductDetailCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 785d97aef4b21591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.imageUrls.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 31be909d57fa99ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.imageUrls.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 4eddbd9c9d5b389e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.imageUrls.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 9c1a66b4b268c058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.imageUrls.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 3757cf68e935cab4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.init(frame: __C.CGRect) -&gt; ProductMusicPlay.ProductDetailCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "482">
+               </Location>
+               <Location
+                  uuid = "D3F782F0-5956-46A3-AE2B-20FAF85B5EDD - 30b7470ac37d4848"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProductMusicPlay.ProductDetailCell&gt;"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay/ProductMusicPlay/ProductDetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "385">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDBADC69-6A03-4280-807A-F61D5196F6CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductDetailCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "ProductDetailCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EE03F80-EBB4-4FAF-AA82-D75E314E235F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D30218E-55D1-4961-BBE8-87412C2EE084"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductDetailListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "addToCartTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D30218E-55D1-4961-BBE8-87412C2EE084 - c3c65625ff5fa300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailListViewController.addToCartTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy/ProductMusicPlay/ProductDetailListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "7D30218E-55D1-4961-BBE8-87412C2EE084 - c3c65625ff5fa300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.ProductDetailListViewController.addToCartTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy/ProductMusicPlay/ProductDetailListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "903D073D-DAAC-4CA1-96AF-C785C51C88C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/Model/ProductCategoryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getProducts(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "903D073D-DAAC-4CA1-96AF-C785C51C88C0 - c7c7f2385a590807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static ProductMusicPlay.ProductCategoryDetails.getProducts(completion: (Swift.Array&lt;ProductMusicPlay.ProductEdge&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%202/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "903D073D-DAAC-4CA1-96AF-C785C51C88C0 - c7c7f2385a590807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static ProductMusicPlay.ProductCategoryDetails.getProducts(completion: (Swift.Array&lt;ProductMusicPlay.ProductEdge&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%202/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1111">
+               </Location>
+               <Location
+                  uuid = "903D073D-DAAC-4CA1-96AF-C785C51C88C0 - c7c7f2385a590807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static ProductMusicPlay.ProductCategoryDetails.getProducts(completion: (Swift.Array&lt;ProductMusicPlay.ProductEdge&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%202/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "903D073D-DAAC-4CA1-96AF-C785C51C88C0 - c7c7f2385a5909c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static ProductMusicPlay.ProductCategoryDetails.getProducts(completion: (Swift.Array&lt;ProductMusicPlay.ProductEdge&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%202/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "425A3183-D8A5-43B4-9FFE-54CFB26FBEB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A86D7965-EAF0-4199-869D-92A7B611E86F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchProduct()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED5E44DB-B92A-4CAE-A2A0-6509AFF18FC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/ProductListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchProduct()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9C9D1FB-C2F5-4E95-A3ED-5FD9D22277AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/Model/ProductCategoryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "addToCart(checkoutToken:productID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2E27EB-1A42-4BCD-8DA2-1A9131C65FB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/Model/ProductCategoryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "getCartDetails(checkoutToken:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DBF417E-4B9B-4C21-A17F-E7A7AE15A5D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "CartViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0DBF417E-4B9B-4C21-A17F-E7A7AE15A5D6 - 2134d2fd5991ff6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.createCartAndFetchDetails() -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "0DBF417E-4B9B-4C21-A17F-E7A7AE15A5D6 - c29b7f67bb04a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.fetchCartDetails() -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - 825d80463d90fd4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271bfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271bfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1946">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - 825d80463d90f226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1946">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2084">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "763">
+               </Location>
+               <Location
+                  uuid = "47A16680-A777-4E77-834E-FA8CEEEF4740 - d650f7739c271ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductMusicPlay.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A9D8D2-4B8B-4DBB-A7A6-3235F845B6A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductMusicPlay/Model/ProductCategoryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "createCartIfNeeded(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09A9D8D2-4B8B-4DBB-A7A6-3235F845B6A7 - 7c1434075e4384d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ProductMusicPlay.ProductCategoryDetails.createCartIfNeeded(completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "09A9D8D2-4B8B-4DBB-A7A6-3235F845B6A7 - 7c1434075e4384ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ProductMusicPlay.ProductCategoryDetails.createCartIfNeeded(completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ProductMusicPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/ProductMusicPlay%20copy%203/ProductMusicPlay/Model/ProductCategoryDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16ADC97C-B4A7-4AFB-BC36-2D4F8FCE7CD7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FBDB9AF-78BD-44DA-BF52-248154C4EA33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "equals(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FBDB9AF-78BD-44DA-BF52-248154C4EA33 - 88d75fa4df8da201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViewController.ViewController.equals(__C.UIButton) -&gt; ()"
+                  moduleName = "ViewController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/rough%20copy/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "6FBDB9AF-78BD-44DA-BF52-248154C4EA33 - 88d75fa4df8da201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViewController.ViewController.equals(__C.UIButton) -&gt; ()"
+                  moduleName = "ViewController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/rough%20copy/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "286">
+               </Location>
+               <Location
+                  uuid = "6FBDB9AF-78BD-44DA-BF52-248154C4EA33 - 88d75fa4df8da201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViewController.ViewController.equals(__C.UIButton) -&gt; ()"
+                  moduleName = "ViewController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/235704/Desktop/rough%20copy/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "410">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
